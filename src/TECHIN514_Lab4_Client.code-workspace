@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../TECHIN514_Lab4_Client"
+		},
+		{
+			"name": "TECHIN514_Lab4_Server",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
